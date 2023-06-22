@@ -1,2 +1,2 @@
-# NodeJS.Cornerstone
+# NodeJS.Cornerstones
 NodeJS bootcamp project.
